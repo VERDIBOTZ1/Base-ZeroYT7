@@ -1,12 +1,12 @@
-//NEW BASE BY ZERO YT7
+//NEW BASE BY verdi
 //RECODE SESUKA HATIMU JANGAN HPUS CREATOR NYA
 //MAAF BASE NYA JELEK
 
 //FOLLOW ALL SOSIAL MEDIAML ME
-//YOUTUBE : Zero YT7
-//INSTAGRAM : @Zero_YT7
-//TIKTOK : @_zeroyt7
-//GITHUB : Zero-YT7
+//YOUTUBE : -
+//INSTAGRAM : @-
+//TIKTOK : @-
+//GITHUB : VERDIBOTZ1 kang recode
 
 let { fetchJosn, kyun, fetchText } = require('./lib/fetcher')
 let { color, bgcolor } = require('./lib/color')
@@ -50,10 +50,10 @@ let pendaftar = JSON.parse(fs.readFileSync('./database/user.json'))
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-owner = setting.OwnerNumber
-botname = setting.BotName
+owner =+6283869803330
+botname = VERDI BOTZ
 zerokey = setting.ZeroKey
-ownername = setting.OwnerName
+ownername = NIH ANAK GANTENG 
 
 //━━━━━━━━━━━━━━━[ MODUL EXPORTS ]━━━━━━━━━━━━━━━━━//
 
